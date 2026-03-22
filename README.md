@@ -1,4 +1,4 @@
-<h1 align="center">🌌 THE KRAKEN 🌌</h1>
+<!-- <h1 align="center">🌌 THE KRAKEN 🌌</h1> -->
 
 <p align="center">
   <i>Engineering Scalable Software, Architecting High-Performance Systems, and Building for the Future — with Precision and Purpose.</i>
