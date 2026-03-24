@@ -23,7 +23,7 @@ My journey is about designing systems that endure, scaling ideas that inspire, a
 | **Backend Engineering** | GoLang, Rust, TypeScript, NestJS, Node.js |
 | **Databases & Messaging** | PostgreSQL, MongoDB, DynamoDB, Redis, RabbitMQ |
 | **Frontend Development** | React.js, Next.js, Vue.js, Angular, TailwindCSS, ShadcnUI, Bootstrap |
-| **Cloud & DevOps** | AWS, Cloudflare, Vercel, Docker, Kubernetes, Terraform, Serverless Framework, GitHub Actions, Jenkins, Helm |
+| **Cloud & DevOps** | Kubernetes, Terraform, AWS, DigitalOcean, Hetzner, Docker, GitHub Actions, Jenkins, Helm, Vercel, Ansible |
 | **Architectural Principles** | Domain-Driven Design (DDD), Microservices, Modular Systems, Event-Driven Architecture, Clean Code, SOLID, Performance Optimization |
 
 ---
