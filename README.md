@@ -16,15 +16,25 @@ My journey is about designing systems that endure, scaling ideas that inspire, a
 
 ---
 
+## 🌊 Currently Building
+
+**[ZenDevz Cloud](https://zendevz.com)** — a sovereign-first, decentralized compute marketplace: a centralized control plane
+orchestrating a fleet of user-owned data-plane machines, turning contributor hardware (bare metal, laptops, spare
+capacity) into a resilient, community-run alternative to the hyperscalers.
+
+---
+
 ## 🛠 Core Expertise
 
-| Domain | Technologies |
+| Domain | Skills |
 |:---|:---|
-| **Backend Engineering** | GoLang, Rust, TypeScript, NestJS, Node.js |
-| **Databases & Messaging** | PostgreSQL, MongoDB, DynamoDB, Redis, RabbitMQ |
-| **Frontend Development** | React.js, Next.js, Vue.js, Angular, TailwindCSS, ShadcnUI, Bootstrap |
-| **Cloud & DevOps** | Kubernetes, Terraform, AWS, DigitalOcean, Hetzner, Docker, GitHub Actions, Jenkins, Helm, Vercel, Ansible |
-| **Architectural Principles** | Domain-Driven Design (DDD), Microservices, Modular Systems, Event-Driven Architecture, Clean Code, SOLID, Performance Optimization |
+| **Backend Engineering** | Designing high-throughput APIs and services, concurrency-safe systems, and clean, modular codebases across multiple languages and paradigms |
+| **Distributed Systems & Networking** | Building secure mesh networking and peer-to-peer connectivity, edge routing, service-to-service authentication, and self-healing reconciliation loops |
+| **Virtualization & Infrastructure** | Managing VM lifecycles across hypervisor platforms, automated provisioning pipelines, and host-agent design for fleet orchestration |
+| **Databases & Messaging** | Relational and NoSQL data modeling, caching strategy, and asynchronous messaging/event pipelines |
+| **Frontend Development** | ~~Building responsive, accessible, component-driven UIs and design systems~~ |
+| **Cloud & DevOps** | Container orchestration, infrastructure as code, CI/CD pipeline design, and multi-cloud deployment strategy |
+| **Architectural Principles** | Designing domain-driven, modular architectures and event-driven, microservice systems that scale cleanly while staying maintainable |
 
 ---
 
