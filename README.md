@@ -8,9 +8,6 @@
 
 ## About Me
 
-**kraken** isn't just a name — it's a philosophy of engineering:  
-Relentless focus. Relentless learning. Relentless building — with humility & craft.
-
 I believe technology should be powerful, resilient, and human-centered.  
 My journey is about designing systems that endure, scaling ideas that inspire, and collaborating with builders who dream big yet stay grounded.
 
